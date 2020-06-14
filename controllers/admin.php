@@ -22,7 +22,7 @@
         $this->render();
     }
     public function listeQuestions(){
-        $this->views="listerQuestions";
+        $this->views="listeQuestions";
         $this->render();
     }
     public function creerAdmin(){

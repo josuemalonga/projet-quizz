@@ -9,8 +9,8 @@
                 </div>
             </div>
             <div class="container col-11 w-100 m-auto d-flex justify-content-space-around p-auto " style="top:3%; height:83%; margin-right: 10px;padding-left: 10px;padding-right: 10px;">
-                <div class="container col-4 h-75 bg-white rounded" style="top:10%;margin-left:15px; margin-right:15px">
-                    <div class="container-fluid bg-gradient text-white w-100" style="height:50%;">
+                <div class="container col-4 h-75 bg-white rounded" style="top:10%; margin-left:15px; margin-right:15px ">
+                    <div class="container-fluid bg-gradient text-white w-100" style="height:40%;">
                     <img src="<?=WEBROOT?>/assets/image/upload/<?=$_SESSION['user']->getAvatar()?>" alt="..." class="rounded-circle border-dark" style="height:107px; width:107px; margin-left: 10px;margin-top: 58px;" >
                     <a href="#" class="text-decoration-none text-white" >
                         <div ><?=$_SESSION['user']->getFullName()?></div>
@@ -39,7 +39,7 @@
                     </nav>
                 </div>
                 
-                <div class="col-8">
+                <div class="col-7">
                     <?php echo $content_for_layout ; ?>
 
                 </div>

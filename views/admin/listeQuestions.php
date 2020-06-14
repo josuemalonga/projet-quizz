@@ -46,7 +46,7 @@
                 <ul class="ul admin">
                                 
                     <input class="boxStyle" type="radio" id="" name="">
-                    <label class="checkboxLineStyle">Gabon (lol)</label><br>
+                    <label class="checkboxLineStyle">Mali (lol)</label><br>
                                 						
                     <input class="boxStyle" type="radio" id="" name="">
                     <label class="checkboxLineStyle">Chine</label><br>
