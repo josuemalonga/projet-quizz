@@ -1,11 +1,10 @@
 
   <div class="p-0 container-fluid">
     
-
     
     <div class="d-block top m-0 p-0 col-4 bg-white m-auto font-weight-bold rounded shadow-sm" style="z-index:1;">
-      <h2 class=" m-0 col-12 text-white w-100 akh1" style="font-size: 20px;">
-        <p class="p-4">Login Form</p>
+      <h2 class=" m-0 col-12 text-white w-100 akh1" style="font-size: 20px;  ">
+        <p style="background-color: #51bfd0; width: 108%; margin-left: -15px;" class="p-4">Login Form</p>
       </h2>
       <?php
         if (isset($err_login)){
