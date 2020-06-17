@@ -1,8 +1,8 @@
-<div class="container w-100 h-100 bg-white rounded" style="margin-right=1%;margin-left:10px; width:450px">
+<div class="container w-100 h-90 bg-white rounded" style="margin-right=1%;margin-left:10px; width:450px">
     <div class="container " style=" width:500px;" >
         <h2 class="font-weight-bold mb-3"style=" font-size:1.4em;color:#51bfd0"> PARAMETRER VOTRE QUESTION</h2>
         
-        <form method="post" action="" class=" rounded p-3" style="border:solid 1px #51bfd0;">
+        <form method="post" action="" class=" rounded p-3" style="border:solid 1px #51bfd0; margin-right: 43px;">
             <div class="form-group row">
                 <label for="" class="col-sm-2 text-secondary font-weight-bold col-form-label m-auto" style="font-size:0.9em;"> Questions </label>
                     <div class="col-sm-10">
